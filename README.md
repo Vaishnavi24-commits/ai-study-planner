@@ -1,8 +1,10 @@
 # AI Study Planner 📚
 
-A simple and clean React-based study planning web application that helps students organize their subjects and deadlines and generate a structured study schedule.
+A simple and clean **React-based study planning web application** that helps students organize their subjects and deadlines and generate a structured study schedule.
 
 The application allows users to add subjects, assign deadlines, and automatically generate a smart multi-day study plan.
+
+---
 
 ## 🚀 Features
 
@@ -13,6 +15,8 @@ The application allows users to add subjects, assign deadlines, and automaticall
 * Modular React component architecture
 * Utility-based plan generation logic
 * Architecture ready for **AI integration (Gemini/OpenAI)**
+
+---
 
 ## 🧠 How It Works
 
@@ -50,7 +54,7 @@ Final Day
 * **Vite**
 * **Component-based architecture**
 
-
+---
 
 ## 📂 Project Structure
 
@@ -108,6 +112,8 @@ VITE_GEMINI_API_KEY=your_api_key_here
 
 This ensures API keys remain secure and are not exposed in the source code.
 
+---
+
 ## 🤖 Future Improvements
 
 * AI-powered study plan generation using **Google Gemini API**
@@ -115,6 +121,8 @@ This ensures API keys remain secure and are not exposed in the source code.
 * Progress bar for study goals
 * Authentication and user accounts
 * Study reminders
+
+---
 
 ## 📌 Learning Outcomes
 
@@ -127,6 +135,10 @@ This project demonstrates:
 * Environment variable usage
 * Clean project structuring for scalable apps
 
-Vaishnavi
+---
+
+## 👩‍💻 Author
+
+**Vaishnavi**
 
 Computer Science Student | Aspiring Software Developer
